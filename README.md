@@ -51,19 +51,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiran-Pokhrel-91&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiran-Pokhrel-91&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 GitHub: [github.com/Kiran-Pokhrel-91](https://github.com/Kiran-Pokhrel-91)
-- 📧 Email: *(add if you want)*
-- 🌐 Portfolio: *(coming soon)*
+- 📧 Email: kiranpokhrel912@gmail.com
+- 🌐 Portfolio: https://kiranpokhrelportfolio.netlify.app/
 
 ---
 
